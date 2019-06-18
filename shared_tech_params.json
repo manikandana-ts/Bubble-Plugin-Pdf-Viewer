@@ -1,0 +1,115 @@
+{
+    "assets": {
+        "AAH": {
+            "name": "pdf.worker.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560833172150x154261193588419700/pdf.worker.js"
+        },
+        "AAJ": {
+            "name": "viewer.properties",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560833383302x414507652714736900/viewer.properties"
+        },
+        "AAM": {
+            "name": "toolbarButton-secondaryToolbarToggle.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560833656282x566998329893391360/toolbarButton-secondaryToolbarToggle.png"
+        },
+        "AAN": {
+            "name": "shadow.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834047778x939371433142826500/shadow.png"
+        },
+        "AAO": {
+            "name": "loading-icon.gif",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834086874x626094676238011000/loading-icon.gif"
+        },
+        "AAP": {
+            "name": "texture.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834125398x999409377165514000/texture.png"
+        },
+        "AAQ": {
+            "name": "loading-small.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834221882x762776139016159900/loading-small.png"
+        },
+        "AAR": {
+            "name": "toolbarButton-menuArrows.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834269366x484179129542778900/toolbarButton-menuArrows.png"
+        },
+        "AAS": {
+            "name": "toolbarButton-sidebarToggle.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834304966x379685171799821950/toolbarButton-sidebarToggle.png"
+        },
+        "AAT": {
+            "name": "toolbarButton-sidebarToggle-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834331117x763353627473833500/toolbarButton-sidebarToggle-rtl.png"
+        },
+        "AAU": {
+            "name": "toolbarButton-secondaryToolbarToggle-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834377674x581841281172133000/toolbarButton-secondaryToolbarToggle-rtl.png"
+        },
+        "AAV": {
+            "name": "findbarButton-previous.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834403362x629497834582723800/findbarButton-previous.png"
+        },
+        "AAW": {
+            "name": "findbarButton-previous-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834430766x337652383096011200/findbarButton-previous-rtl.png"
+        },
+        "AAX": {
+            "name": "toolbarButton-viewThumbnail.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560834470214x687479260330685200/toolbarButton-viewThumbnail.png"
+        },
+        "AAZ": {
+            "name": "locale.properties",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835096990x438368255361456500/locale.properties"
+        },
+        "AAb": {
+            "name": "toolbarButton-pageUp.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835606662x168491531672926080/toolbarButton-pageUp.png"
+        },
+        "AAc": {
+            "name": "toolbarButton-zoomIn.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835658070x857035751934495700/toolbarButton-zoomIn.png"
+        },
+        "AAd": {
+            "name": "toolbarButton-search.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835694274x956514959583046400/toolbarButton-search.png"
+        },
+        "AAe": {
+            "name": "toolbarButton-zoomOut.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835738945x543550779929240060/toolbarButton-zoomOut.png"
+        },
+        "AAf": {
+            "name": "toolbarButton-pageDown.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835782630x241551525676513500/toolbarButton-pageDown.png"
+        },
+        "AAg": {
+            "name": "findbarButton-next.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835802722x300593175120523500/findbarButton-next.png"
+        },
+        "AAh": {
+            "name": "viewer.css",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560835857402x174713659810362240/viewer.css"
+        },
+        "AAn": {
+            "name": "pdf.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560837435154x468717327901352600/pdf.js"
+        },
+        "AAr": {
+            "name": "favicon.ico",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560837889410x888736209573268200/favicon.ico"
+        },
+        "AAt": {
+            "name": "compressed.tracemonkey-pldi-09.pdf",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560838061966x378592593345474370/compressed.tracemonkey-pldi-09.pdf"
+        },
+        "AAw": {
+            "name": "viewer.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560838278398x897890006310241500/viewer.js"
+        },
+        "AAx": {
+            "name": "viewer.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560838306002x151747680002315420/viewer.html"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}
