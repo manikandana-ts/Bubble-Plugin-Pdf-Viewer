@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "data (things)",
+        "2": "web scraping"
+    },
+    "demo_page": "https://testnew111.bubbleapps.io/version-test/pdfview",
+    "description": "Used this plugin from Mozilla pdf.js\n\nAdded option to view the pdf in a ability way.\n\nInitially this plugin will load full version of pdf viewer options.\n\nyou can control the viewer options by setting on the element.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1560837980921x505071979348753300/favicon.ico",
+    "instructions": "",
+    "license": "open_source",
+    "link": "https://github.com/mozilla/pdf.js#online-demo",
+    "name": "Pdf Viewer",
+    "plugin_instructions": "This element will allow to enable/disable download/print/presentation/search/ etc.\n\nNote: this will render only AWS files only.\n\n"
+}

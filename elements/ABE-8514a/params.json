@@ -1,0 +1,118 @@
+{
+    "add_is_visible": true,
+    "add_large_file_upload_properties": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 300,
+        "width": 450
+    },
+    "display": "PdfViewer",
+    "fields": {
+        "ABF": {
+            "caption": "PDF Url",
+            "default_val": "https://s3.amazonaws.com/appforest_uf/f1560838061966x378592593345474370/compressed.tracemonkey-pldi-09.pdf",
+            "doc": "choose the pdf url you want to render & Must include https:// or http://",
+            "editor": "DynamicValue",
+            "name": "pdf_url",
+            "rank": 0,
+            "value": "file"
+        },
+        "ABK": {
+            "caption": "pdf viewer ID",
+            "default_val": "pdfviewer_1234",
+            "editor": "DynamicValue",
+            "name": "pdf_viewer_id",
+            "rank": 1,
+            "value": "text"
+        },
+        "ABL": {
+            "caption": "Page to Fit",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "page_to_fit",
+            "rank": 2,
+            "value": "boolean"
+        },
+        "ACc": {
+            "caption": "Remove Download",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_download",
+            "options": "",
+            "rank": 3,
+            "value": "boolean"
+        },
+        "ACd": {
+            "caption": "Remove Print",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_print",
+            "rank": 4,
+            "value": "boolean"
+        },
+        "ACe": {
+            "caption": "Remove Search",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_search",
+            "rank": 5,
+            "value": "boolean"
+        },
+        "ACu": {
+            "caption": "Remove Left Toggle",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_left_toggle",
+            "rank": 7,
+            "value": "boolean"
+        },
+        "ACv": {
+            "caption": "Remove Presentation Mode",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_presentation_mode",
+            "rank": 6,
+            "value": "boolean"
+        },
+        "ACw": {
+            "caption": "Remove Bookmark",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_bookmark",
+            "rank": 8,
+            "value": "boolean"
+        },
+        "ACz": {
+            "caption": "Remove Top Toolbar",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_top_toolbar",
+            "rank": 9,
+            "value": "boolean"
+        },
+        "ADA": {
+            "caption": "Remove File Open",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_file_open",
+            "options": "",
+            "rank": 10,
+            "value": "boolean"
+        },
+        "ADB": {
+            "caption": "Remove Right toggle",
+            "default_val": false,
+            "editor": "DynamicValue",
+            "name": "remove_right_toggle",
+            "rank": 11,
+            "value": "boolean"
+        }
+    },
+    "has_reset_fn": false,
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "BoxShadow": true,
+        "MinWidth": true,
+        "resizable": true
+    }
+}

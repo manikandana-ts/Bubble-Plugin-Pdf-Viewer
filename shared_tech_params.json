@@ -107,9 +107,346 @@
         "AAx": {
             "name": "viewer.html",
             "url": "//dd7tel2830j4w.cloudfront.net/f1560838306002x151747680002315420/viewer.html"
+        },
+        "ABA": {
+            "name": "viewer.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1561015212569x988803642426204500/viewer.js"
+        },
+        "ABC": {
+            "name": "viewer.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1561016248745x334331606262970600/viewer.html"
+        },
+        "ABD": {
+            "name": "test.pdf",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1573214016274x233599347314791940/Elo-2013-Gravity-Model-Mafic-Intrusions-PDF3D%20%281%29.pdf"
+        },
+        "ABG": {
+            "name": "viewer_full.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1590638328759x281555005918949340/viewer_full.html"
+        },
+        "ABM": {
+            "name": "toolbarButton-viewOutline.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366485087x179857745542697280/toolbarButton-viewOutline.png"
+        },
+        "ABN": {
+            "name": "toolbarButton-viewOutline-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366540895x961174094904910300/toolbarButton-viewOutline-rtl.png"
+        },
+        "ABO": {
+            "name": "findbarButton-next-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366585885x366588975820850940/findbarButton-next-rtl.png"
+        },
+        "ABP": {
+            "name": "toolbarButton-pageUp-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366601260x653686183405998000/toolbarButton-pageUp-rtl.png"
+        },
+        "ABQ": {
+            "name": "toolbarButton-pageDown-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366612665x613867129341750400/toolbarButton-pageDown-rtl.png"
+        },
+        "ABR": {
+            "name": "toolbarButton-presentationMode.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366624557x259188094889412300/toolbarButton-presentationMode.png"
+        },
+        "ABS": {
+            "name": "toolbarButton-viewOutline.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366637265x584814417784573000/toolbarButton-viewOutline.png"
+        },
+        "ABT": {
+            "name": "toolbarButton-viewOutline-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366647104x212243079830963600/toolbarButton-viewOutline-rtl.png"
+        },
+        "ABU": {
+            "name": "secondaryToolbarButton-firstPage.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366660709x959424309026814800/secondaryToolbarButton-firstPage.png"
+        },
+        "ABV": {
+            "name": "secondaryToolbarButton-lastPage.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366670228x341355973736174900/secondaryToolbarButton-lastPage.png"
+        },
+        "ABW": {
+            "name": "secondaryToolbarButton-rotateCcw.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366678969x761684794633952300/secondaryToolbarButton-rotateCcw.png"
+        },
+        "ABX": {
+            "name": "secondaryToolbarButton-rotateCw.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366688861x631112723323605600/secondaryToolbarButton-rotateCw.png"
+        },
+        "ABY": {
+            "name": "secondaryToolbarButton-rotateCw.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366723693x233802330576907230/secondaryToolbarButton-rotateCw.png"
+        },
+        "ABZ": {
+            "name": "secondaryToolbarButton-handTool.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366733072x918662265830046500/secondaryToolbarButton-handTool.png"
+        },
+        "ABa": {
+            "name": "secondaryToolbarButton-scrollVertical.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366742548x892774006982891800/secondaryToolbarButton-scrollVertical.png"
+        },
+        "ABb": {
+            "name": "secondaryToolbarButton-scrollHorizontal.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366750985x927865574182735500/secondaryToolbarButton-scrollHorizontal.png"
+        },
+        "ABc": {
+            "name": "secondaryToolbarButton-scrollWrapped.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366760077x311403153793412560/secondaryToolbarButton-scrollWrapped.png"
+        },
+        "ABd": {
+            "name": "secondaryToolbarButton-spreadNone.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366770249x338226773604481900/secondaryToolbarButton-spreadNone.png"
+        },
+        "ABe": {
+            "name": "secondaryToolbarButton-spreadOdd.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366781601x578157622096786600/secondaryToolbarButton-spreadOdd.png"
+        },
+        "ABf": {
+            "name": "secondaryToolbarButton-spreadEven.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366790065x512600474841663940/secondaryToolbarButton-spreadEven.png"
+        },
+        "ABg": {
+            "name": "secondaryToolbarButton-documentProperties.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366801877x366408755436797840/secondaryToolbarButton-documentProperties.png"
+        },
+        "ABh": {
+            "name": "treeitem-expanded.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366818665x679937629096196700/treeitem-expanded.png"
+        },
+        "ABi": {
+            "name": "treeitem-collapsed.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366831249x112230927088851300/treeitem-collapsed.png"
+        },
+        "ABj": {
+            "name": "treeitem-collapsed-rtl.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366841737x952964143990076700/treeitem-collapsed-rtl.png"
+        },
+        "ABk": {
+            "name": "grab.cur",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366858249x194306374199278530/grab.cur"
+        },
+        "ABl": {
+            "name": "grabbing.cur",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366867345x300818857726945700/grabbing.cur"
+        },
+        "ABm": {
+            "name": "loading-small@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366877808x688865380135797100/loading-small%402x.png"
+        },
+        "ABn": {
+            "name": "toolbarButton-menuArrows@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366887153x297864633862196200/toolbarButton-menuArrows%402x.png"
+        },
+        "ABo": {
+            "name": "toolbarButton-sidebarToggle@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366896497x512613090245652030/toolbarButton-sidebarToggle%402x.png"
+        },
+        "ABp": {
+            "name": "toolbarButton-sidebarToggle-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366907913x346728009448723260/toolbarButton-sidebarToggle-rtl%402x.png"
+        },
+        "ABq": {
+            "name": "toolbarButton-secondaryToolbarToggle@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366918589x302846644899127600/toolbarButton-secondaryToolbarToggle%402x.png"
+        },
+        "ABr": {
+            "name": "toolbarButton-secondaryToolbarToggle-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366927788x516739966188071360/toolbarButton-secondaryToolbarToggle-rtl%402x.png"
+        },
+        "ABs": {
+            "name": "findbarButton-previous@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366937761x133902505050406800/findbarButton-previous%402x.png"
+        },
+        "ABt": {
+            "name": "findbarButton-previous-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366948064x771572976991684100/findbarButton-previous-rtl%402x.png"
+        },
+        "ABu": {
+            "name": "findbarButton-next@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366960205x573194110208495170/findbarButton-next%402x.png"
+        },
+        "ABv": {
+            "name": "findbarButton-next-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366968297x392745055014280100/findbarButton-next-rtl%402x.png"
+        },
+        "ABw": {
+            "name": "toolbarButton-pageUp@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366976813x436387238655129700/toolbarButton-pageUp%402x.png"
+        },
+        "ABx": {
+            "name": "toolbarButton-pageUp-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594366986851x203685492857939900/toolbarButton-pageUp-rtl%402x.png"
+        },
+        "ABy": {
+            "name": "toolbarButton-pageDown@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367326553x829092999845533200/toolbarButton-pageDown%402x.png"
+        },
+        "ABz": {
+            "name": "toolbarButton-pageDown-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367335689x643298010678164500/toolbarButton-pageDown-rtl%402x.png"
+        },
+        "ACA": {
+            "name": "toolbarButton-zoomIn@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367345327x141264828779302350/toolbarButton-zoomIn%402x.png"
+        },
+        "ACB": {
+            "name": "toolbarButton-zoomOut@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367354537x179192100760629200/toolbarButton-zoomOut%402x.png"
+        },
+        "ACC": {
+            "name": "toolbarButton-presentationMode@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367366213x316857249001631940/toolbarButton-presentationMode%402x.png"
+        },
+        "ACD": {
+            "name": "toolbarButton-print@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367374372x719299839357723300/toolbarButton-print%402x.png"
+        },
+        "ACE": {
+            "name": "toolbarButton-openFile@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367384033x954918006900168000/toolbarButton-openFile%402x.png"
+        },
+        "ACF": {
+            "name": "toolbarButton-download@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367394797x777221993090495600/toolbarButton-download%402x.png"
+        },
+        "ACG": {
+            "name": "toolbarButton-bookmark@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367404397x644186406441880100/toolbarButton-bookmark%402x.png"
+        },
+        "ACH": {
+            "name": "toolbarButton-viewThumbnail@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367417015x204195810717969540/toolbarButton-viewThumbnail%402x.png"
+        },
+        "ACI": {
+            "name": "toolbarButton-viewOutline@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367425815x691320860137447700/toolbarButton-viewOutline%402x.png"
+        },
+        "ACJ": {
+            "name": "toolbarButton-viewOutline-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367435757x276095595650010850/toolbarButton-viewOutline-rtl%402x.png"
+        },
+        "ACK": {
+            "name": "toolbarButton-viewAttachments@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367445080x697547242552974300/toolbarButton-viewAttachments%402x.png"
+        },
+        "ACL": {
+            "name": "toolbarButton-search@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367454501x472238651336091900/toolbarButton-search%402x.png"
+        },
+        "ACM": {
+            "name": "secondaryToolbarButton-firstPage@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367469599x932443278371395400/secondaryToolbarButton-firstPage%402x.png"
+        },
+        "ACN": {
+            "name": "secondaryToolbarButton-lastPage@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367478883x485205210024620000/secondaryToolbarButton-lastPage%402x.png"
+        },
+        "ACO": {
+            "name": "secondaryToolbarButton-rotateCcw@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367487888x276707267742751330/secondaryToolbarButton-rotateCcw%402x.png"
+        },
+        "ACP": {
+            "name": "secondaryToolbarButton-rotateCw@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367496377x111477000137883540/secondaryToolbarButton-rotateCw%402x.png"
+        },
+        "ACQ": {
+            "name": "secondaryToolbarButton-selectTool@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367507392x681263422810442400/secondaryToolbarButton-selectTool%402x.png"
+        },
+        "ACR": {
+            "name": "secondaryToolbarButton-handTool@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367516824x838484398001991200/secondaryToolbarButton-handTool%402x.png"
+        },
+        "ACS": {
+            "name": "secondaryToolbarButton-scrollVertical@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367525381x428071885289191360/secondaryToolbarButton-scrollVertical%402x.png"
+        },
+        "ACT": {
+            "name": "secondaryToolbarButton-scrollHorizontal@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367534557x332112598444786370/secondaryToolbarButton-scrollHorizontal%402x.png"
+        },
+        "ACU": {
+            "name": "secondaryToolbarButton-scrollWrapped@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367543207x869786748843017800/secondaryToolbarButton-scrollWrapped%402x.png"
+        },
+        "ACV": {
+            "name": "secondaryToolbarButton-spreadNone@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367553328x252191831461707330/secondaryToolbarButton-spreadNone%402x.png"
+        },
+        "ACW": {
+            "name": "secondaryToolbarButton-spreadOdd@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367562549x725219755442953900/secondaryToolbarButton-spreadOdd%402x.png"
+        },
+        "ACX": {
+            "name": "secondaryToolbarButton-spreadEven@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367573249x206372067235365060/secondaryToolbarButton-spreadEven%402x.png"
+        },
+        "ACY": {
+            "name": "secondaryToolbarButton-documentProperties@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367583225x824493918431853600/secondaryToolbarButton-documentProperties%402x.png"
+        },
+        "ACZ": {
+            "name": "treeitem-expanded@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367591481x297902894087563000/treeitem-expanded%402x.png"
+        },
+        "ACa": {
+            "name": "treeitem-collapsed@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367601528x614719517502279600/treeitem-collapsed%402x.png"
+        },
+        "ACb": {
+            "name": "treeitem-collapsed-rtl@2x.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594367611799x191867210300913360/treeitem-collapsed-rtl%402x.png"
+        },
+        "ACg": {
+            "name": "secondaryToolbarButton-selectTool.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606282496638x342232195993433340/secondaryToolbarButton-selectTool.png"
+        },
+        "ACi": {
+            "name": "pdf.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606284021733x711535970343125600/pdf.js"
+        },
+        "ACj": {
+            "name": "viewer.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606284047114x343184587896501200/viewer.js"
+        },
+        "ACn": {
+            "name": "toolbarButton-print.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606289364226x461529857207860800/toolbarButton-print.png"
+        },
+        "ACo": {
+            "name": "toolbarButton-openFile.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606289390126x790012573314554500/toolbarButton-openFile.png"
+        },
+        "ACp": {
+            "name": "toolbarButton-download.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606289414726x707476577207104100/toolbarButton-download.png"
+        },
+        "ACq": {
+            "name": "toolbarButton-bookmark.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606289433722x912306234626991600/toolbarButton-bookmark.png"
+        },
+        "ACr": {
+            "name": "viewer.css",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606289508458x536152739929633300/viewer.css"
+        },
+        "ACs": {
+            "name": "locale.properties",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606289537527x723734584064301200/locale.properties"
+        },
+        "ADC": {
+            "name": "viewer_full.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1606293474685x732653757445511700/viewer_full.html"
+        },
+        "ADD": {
+            "name": "viewer.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1610353140206x128467528352386830/viewer.js"
+        },
+        "ADE": {
+            "name": "viewer_full.html",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1610353261674x303711191731752770/viewer_full.html.html"
         }
     },
     "dependencies": {
+        "plugin_api_version": "2",
         "use_jquery": true
     }
 }
